@@ -1,6 +1,6 @@
 # Olá, eu sou o João Lucas! 👋
 
-### Desenvolvedor de Software | Foco em Backend
+### Desenvolvedor de Software
 
 Olá! Sou um desenvolvedor em início de carreira, com foco total no desenvolvimento **Backend**. Tenho experiência prática na criação e consumo de **APIs**, buscando sempre aplicar as melhores práticas para construir sistemas robustos e eficientes.
 
