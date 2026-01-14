@@ -1,4 +1,4 @@
-# João Lucas - Software Developer Backend
+# João Lucas - Software Developer
 
 ### ➥ Sobre mim
 
