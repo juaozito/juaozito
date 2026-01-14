@@ -2,7 +2,7 @@
 
 ### ➥ Sobre mim
 
-Sou um Desenvolvedor de Software em início de carreira com foco sólido em **Backend**. Tenho experiência no desenvolvimento e consumo de **APIs**, priorizando a construção de sistemas eficientes e escaláveis. Busco constantemente aplicar as melhores práticas de desenvolvimento para entregar soluções robustas que resolvam problemas reais.
+Sou um Desenvolvedor de Software em início de carreira com foco em **Backend**. Tenho parcial experiência no desenvolvimento e consumo de **APIs**, priorizando a construção de sistemas eficientes e escaláveis. Busco constantemente aplicar as melhores práticas de desenvolvimento para entregar soluções robustas que resolvam problemas reais.
 
 ---
 
@@ -36,7 +36,7 @@ Sou um Desenvolvedor de Software em início de carreira com foco sólido em **Ba
 ### ➥ Contato
 
 Quer conversar sobre tecnologia ou oportunidades de colaboração?
-* 📧 **E-mail:** [seu-email@gmail.com](mailto:seu-email@gmail.com)
+* 📧 **E-mail:** [seu-email@gmail.com](mailto:reboucasjoao85@gmail.com)
 * 🔗 **LinkedIn:** [João Lucas](https://www.linkedin.com/in/joão-lucas-95b427213)
 
 ---
