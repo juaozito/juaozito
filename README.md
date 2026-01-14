@@ -36,7 +36,7 @@ Sou um Desenvolvedor de Software em início de carreira com foco em **Backend**.
 ### ➥ Contato
 
 Quer conversar sobre tecnologia ou oportunidades de colaboração?
-* 📧 **E-mail:** [seu-email@gmail.com](mailto:seu-email@gmail.com)
+* 📧 **E-mail:** [seu-email@gmail.com](mailto:reboucasjoao85@gmail.com)
 * 🔗 **LinkedIn:** [João Lucas](https://www.linkedin.com/in/joão-lucas-95b427213)
 
 ---
