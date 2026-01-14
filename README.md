@@ -24,18 +24,10 @@ Sou um Desenvolvedor de Software em início de carreira com foco em **Backend**.
 
 ---
 
-### ➥ Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolucasreboucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasreboucas&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ### ➥ Contato
 
 Quer conversar sobre tecnologia ou oportunidades de colaboração?
+
 * 📧 **E-mail:** [reboucasjoao85@gmail.com](mailto:reboucasjoao85@gmail.com)
 * 🔗 **LinkedIn:** [João Lucas](https://www.linkedin.com/in/joão-lucas-95b427213)
 
